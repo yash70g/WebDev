@@ -1,0 +1,14 @@
+td{
+    border: 3px solid rgb(255, 0, 0);
+}td{
+    border: 43px solid rgb(255, 0, 0);
+}
+ul{
+    border: 2px solid rgb(255, 0, 255);
+}
+li{
+    border: 1px black;
+}
+iframe{
+    border: 43px blueviolet;
+}
